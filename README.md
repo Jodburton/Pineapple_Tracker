@@ -17,6 +17,8 @@ The Pie Chart offers a granular view of your asset allocation. It visually repre
 The Line Graph is your portfolio's history book. It tracks the performance of your entire portfolio over different timeframes— monthly, quarterly, yearly. You can customize this graph to focus on specific metrics like net value, ROI, or individual asset performance.
 
 ### Portfolio Analysis
+![Pineapple Analysis Viz's](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/b670a1f6-c87f-4913-aa4e-d07795a29bd5)
+![Pineapple Analysis Sharpe Ratio](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/f902b776-56d8-45ff-b579-d70a471a517b)
 ##### Efficient Frontier Plot
 The Efficient Frontier Plot is your risk-return roadmap. It graphically represents the optimal portfolios that offer the highest expected return for a defined level of risk. This is crucial for understanding how to allocate your assets to achieve either maximum return or minimum risk.
 
