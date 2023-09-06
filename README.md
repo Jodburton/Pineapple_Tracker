@@ -29,6 +29,9 @@ Based on the Efficient Frontier, this pie chart provides a recommended asset all
 The Sharpe Ratio Bar Chart is your portfolio's report card. It measures the risk-adjusted performance of your portfolio by comparing its excess return to its volatility. A higher Sharpe Ratio indicates that your portfolio is generating a higher return for a given level of risk.
 
 ### Technical Analysis
+<img width="879" alt="Pineapple Chart " src="https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/1b3e87f5-ce13-4c41-8d16-3fa43ea68dee">
+<img width="878" alt="Pineapple Chart Related Articles" src="https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/22a7b6b5-8a7d-4862-9eef-fe9220028eab">
+
 ##### Interactive Chart
 The Interactive Chart is the dashboard's powerhouse. It combines a candlestick chart for tracking asset prices, a volume bar chart for market activity, and various technical indicators like Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and On-Balance Volume (OBV). This feature allows you to dive deep into the technical aspects of each asset, offering a more nuanced understanding of market trends
 
@@ -41,7 +44,7 @@ The Interactive Chart is the dashboard's powerhouse. It combines a candlestick c
 ## How to Use
 1. **Launch Dashboard:** Open the dashboard via the designated URL or local host.
 
-2.** Select Asset:** Use the dropdown menu to select the asset you wish to analyze. This will update all the charts and metrics accordingly.
+2. **Select Asset:** Use the dropdown menu to select the asset you wish to analyze. This will update all the charts and metrics accordingly.
 
 3. **Customize Timeframe:** Choose the timeframe for which you want to view asset performance. This is particularly useful for the line graph and the interactive chart.
 
