@@ -1,11 +1,12 @@
-![Main Header](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/5f8aa081-6395-453a-9366-414ee907388c)
-
 # Pineapple Tracker
+![Main Header](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/5f8aa081-6395-453a-9366-414ee907388c)
 ## Overview
 The Portfolio Analysis Dashboard is a comprehensive financial tool designed to offer a 360-degree view of your investment portfolio. Built using the Dash framework, this dashboard is a one-stop solution for both novice and expert investors. It amalgamates data analytics, real-time market trends, and interactive features to provide a detailed analysis of your investments. From basic portfolio metrics to intricate technical indicators, this dashboard is engineered to offer actionable insights.
 
 ## Features
 ### Portfolio Overview
+![Data Table](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/6c370538-ec9c-4fdd-ac52-fcb8e50c555a)
+![Pineapple Tracker Viz's](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/26482925-2918-4dfa-99b2-f74229fb84e0)
 ##### Gauge Chart
   The Gauge Chart serves as the pulse monitor for your portfolio. It displays critical metrics such as the total portfolio value, Return on Investment (ROI), and the overall risk level. This chart is designed to give you an immediate understanding of your portfolio's current standing.
 
