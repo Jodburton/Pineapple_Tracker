@@ -1,3 +1,5 @@
+![Main Header](https://github.com/Jodburton/Pineapple_Tracker/assets/141245415/5f8aa081-6395-453a-9366-414ee907388c)
+
 # Pineapple Tracker
 ## Overview
 The Portfolio Analysis Dashboard is a comprehensive financial tool designed to offer a 360-degree view of your investment portfolio. Built using the Dash framework, this dashboard is a one-stop solution for both novice and expert investors. It amalgamates data analytics, real-time market trends, and interactive features to provide a detailed analysis of your investments. From basic portfolio metrics to intricate technical indicators, this dashboard is engineered to offer actionable insights.
